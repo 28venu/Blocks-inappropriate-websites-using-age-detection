@@ -29,6 +29,5 @@ This project uses a **Vision Transformer (ViT)** model to estimate the user's ag
 
 ```bash
 git clone https://github.com/28venu/Blocks-inappropriate-websites-using-age-detection.git
-cd Blocks-inappropriate-websites-using-age-detection/backend
 pip install -r requirements.txt
 python app.py
